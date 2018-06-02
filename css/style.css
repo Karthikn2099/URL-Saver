@@ -1,0 +1,54 @@
+h3 {
+  width:60%;
+  margin: 5px auto;
+  text-align: center;
+}
+#form {
+  width:60%;
+  padding: 30px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: rgba(0,0,0,.3);
+  border-radius: 5px;
+}
+
+#bookmarks {
+  width:60%;
+  margin:0 auto;
+}
+
+#results {
+    width: 50%;
+    margin: 5px auto;
+    padding: 2px;
+    border-radius: 4px;
+
+}
+
+.good {
+    margin: 10px;
+    background-color: rgba(0,0,0,.2);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#text {
+    font-family: sans-serif;
+    font-weight: bolder;
+    padding: 0 30px;
+    padding-bottom: -5px;
+    margin-right: 10px;
+}
+
+#btns {
+    float: right;
+}
+
+#nametext {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
