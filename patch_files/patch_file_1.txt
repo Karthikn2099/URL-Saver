@@ -1,0 +1,3 @@
+1st line in patch file 1
+2nd line in patch file 1
+3rd line in patch file 1
